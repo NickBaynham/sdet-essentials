@@ -8,5 +8,10 @@
     <name>sdet-essentials-project-management</name>
     <description>Provides a Standard Test Automation Framework</description>
     <url>https://github.com/nickbaynham/sdet-essentials</url>
-    <version>1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>19.0</maven.compiler.source>
+        <maven.compiler.target>19.0</maven.compiler.target>
+    </properties>
 </project>
