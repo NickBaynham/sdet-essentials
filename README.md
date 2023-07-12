@@ -30,3 +30,8 @@ mvn clean install
 ```bash
 mvn test
 ```
+
+## Run as a Jar
+```bash
+java -jar target/sdet-essentials-1.0-SNAPSHOT.jar
+```
