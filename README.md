@@ -1,4 +1,6 @@
 # sdet-essentials
+- Run the framework on Mac silicone. Support for other platforms will be added soon.
+- To run on a different platform change the driver for the driver for your platform. If on Windows, change the path as well.
 
 Download and Install an IDE, for example I'm using IntelliJ Community Edition
 
